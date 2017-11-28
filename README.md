@@ -70,5 +70,5 @@ As well as the order of percentage selection of the models:
 
 
 # Calculating principal components for bladder toxicity
-To transform bladder DVH data to principal components for modelling of the risk of cystistis see calculate_principal_components.py
+To transform bladder DVH data to principal components for modelling of the risk of cystistis see [./calculate_principal_components.py](calculate_principal_components.py).
 
