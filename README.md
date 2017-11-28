@@ -68,3 +68,7 @@ Also a list of the percentage the variables were selected during the algorithm r
 As well as the order of percentage selection of the models:  
 ![Models rank.png](https://bitbucket.org/repo/yp5MdKd/images/1042504757-Models%20rank.png)
 
+
+# Calculating principal components for bladder toxicity
+To transform bladder DVH data to principal components for modelling of the risk of cystistis see calculate_principal_components.py
+
