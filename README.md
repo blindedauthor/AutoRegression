@@ -54,6 +54,9 @@ The output is best_model: python list with the best model parameters from the al
 
 It is recommended to run example.py to test if the code works and better understand how it runs by looking at the comments
 
+# Calculating principal components for bladder toxicity
+To transform bladder DVH data to principal components for modelling of the risk of cystistis see [calculate_principal_components.py](calculate_principal_components.py).
+
 # Example
 The ordinal response dataset on wine quality was downloaded from http://www.gagolewski.com/resources/data/ordinal-regression/winequality-red.csv and tested for the example shown in 'example.py'  
 
@@ -67,8 +70,3 @@ Also a list of the percentage the variables were selected during the algorithm r
 
 As well as the order of percentage selection of the models:  
 ![Models rank.png](https://bitbucket.org/repo/yp5MdKd/images/1042504757-Models%20rank.png)
-
-
-# Calculating principal components for bladder toxicity
-To transform bladder DVH data to principal components for modelling of the risk of cystistis see [calculate_principal_components.py](calculate_principal_components.py).
-
